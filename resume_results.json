@@ -1,0 +1,30 @@
+[
+    {
+        "Filename": "resume.pdf",
+        "Education Level": "Bachelor's",
+        "Education Status": "Meets requirement",
+        "Industry": "Software Development",
+        "Keywords": {
+            "python": 6,
+            "data": 1,
+            "data structures": 1,
+            "machine learning": 0,
+            "data analysis": 0,
+            "neural networks": 0
+        }
+    },
+    {
+        "Filename": "resume_juanjosecarin.pdf",
+        "Education Level": "Master's",
+        "Education Status": "Meets requirement",
+        "Industry": "Data Science and Analytics",
+        "Keywords": {
+            "python": 5,
+            "data": 22,
+            "data structures": 0,
+            "machine learning": 4,
+            "data analysis": 2,
+            "neural networks": 2
+        }
+    }
+]
